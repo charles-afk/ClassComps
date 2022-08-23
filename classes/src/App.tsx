@@ -9,7 +9,7 @@ class App extends React.Component {
 		super(props);
 
 		this.state = {
-			userName: 'Zander',
+			userName: 'Charles',
 			todoItems: [
 				{ action: 'Buy Milk', done: true },
 				{ action: 'Dentist at 5pm', done: false },
